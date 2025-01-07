@@ -1,0 +1,2 @@
+- #1 Implement adding a new timelog entry
+  - @todo #1 Dispatch section and command to a specific function
