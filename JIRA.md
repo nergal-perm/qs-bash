@@ -1,2 +1,5 @@
 - #1 Implement adding a new timelog entry
   - @todo #1 Dispatch section and command to a specific function
+  - @todo #1 Add a single node to the database
+  - @todo #1 Find a node by its properties
+  - @todo #1 Add a link between two nodes
